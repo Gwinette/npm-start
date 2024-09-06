@@ -1,0 +1,22 @@
+{
+  "name": "npm-start",
+  "version": "1.0.0",
+  "description": "initial file",
+  "main": "index.js",
+  "scripts": {
+    "test": "initial-test",
+    "dev" : "parcel index.html --no-cache"
+  },
+  "keywords": [
+    "initial"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.12.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
